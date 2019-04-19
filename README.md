@@ -22,13 +22,13 @@ For Linux people, your package manager should be able to handle all of this. If 
 can't, see if you can at least install Python and pip and then use pip to install the above
 packages.
 # Objective:
-● Using unweighted and normalized sentence vectors as features for the text
-using GloVe word embeddings.
+● Using unweighted and normalized sentence vectors as features for the text using GloVe word embeddings.
+
 ● Use different standard classifiers for classification of the texts.
-● Compare the accuracy of both normalized and unnormalized sentence
-vectors.
-● Compare the accuracy of the classifiers using different standard
-classification metrics.
+
+● Compare the accuracy of both normalized and unnormalized sentence vectors.
+
+● Compare the accuracy of the classifiers using different standard classification metrics.
 
 #  Workflow:
 ● Extract and store the word vectors for the words present in your dataset using proper data structures.
